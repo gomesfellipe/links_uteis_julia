@@ -1,6 +1,6 @@
 # links_uteis_julia
 
-Em construção...
+**Em construção...**
 
 
 # Instalação
@@ -22,6 +22,6 @@ Em construção...
 
 * [DataFrames.jl 1.0 tutorial | Workshop | JuliaCon 2021 - Youtube](https://www.youtube.com/watch?v=tJf24gfcSto)
 
-# Inter operabilidade
+# Interoperabilidade
 
 * [Julia Interop](https://github.com/JuliaInterop)
